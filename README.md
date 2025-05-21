@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivang</h1>
-<h3 align="center">Just your average frontend developer trying to make buttons that actually work.</h3>
+<h3 align="center">Just your average Full Stack developer trying to make buttons that actually work.</h3>
 
 - 🔭 I’m currently working on [DSA_Tracker(Because clearly sleep is optional.)](https://github.com/shivaapratim/DSA_Tracker)
 
