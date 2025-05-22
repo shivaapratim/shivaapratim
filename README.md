@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivang</h1>
 <h3 align="center">Just your average Full Stack developer trying to make buttons that actually work.</h3>
 
-- 🔭 I’m currently working on [DSA_Tracker(Because clearly sleep is optional.)](https://github.com/shivaapratim/DSA_Tracker)
+- 🔭 I’m currently working on [DSA_Tracker(Because clearly sleep is option.)](https://github.com/shivaapratim/DSA_Tracker)
 
 - 📝 I sometimes write articles on [https://medium.com/@shuklashivang9](https://medium.com/@shuklashivang9)
 
-- 💬 Ask me about **React, DSA, and Laravel (Yes, I voluntarily use all three. I know, wild.)**
+- 💬 Ask me about **React, Cloud, DSA, and Laravel (Yes, I voluntarily use all four. I know, wild.)**
 
 - 📫 How to reach me **shuklashivang9@gmail.com**
 
